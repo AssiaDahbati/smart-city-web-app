@@ -5,8 +5,8 @@ public class CityPlace {
     private int id;
 
     
-    private String sourceType;   // e.g. "TOURISM", "EDUCATION"
-    private int sourceId;        // id in original table
+    private String sourceType;  
+    private int sourceId;        
 
     private String name;
     private String category;
