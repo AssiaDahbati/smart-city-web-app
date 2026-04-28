@@ -1,6 +1,6 @@
 # Smart City Web Application
 
-## 📌 Overview
+## 📌 Overview 
 A full-stack Smart City web application developed using Java (JSP/Servlets) and MySQL.
 
 The system provides a centralized platform where users can explore city services including tourism, education, businesses, and job opportunities, while administrators manage all system content.
